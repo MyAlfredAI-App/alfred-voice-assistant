@@ -6,7 +6,7 @@ Alfred understands natural speech and controls your smart home, your Plex/Jellyf
 
 > **Status: not released yet.** This repo is a placeholder with no code. I'm aiming to open a **private beta sign-up in January**, with a public release after that once it's stable. **Watch or Star this repo** to follow along.
 
-![Alfred main screen](images/main.png)
+![Alfred main screen](main.PNG)
 
 ## What it does
 
@@ -18,7 +18,7 @@ Alfred understands natural speech and controls your smart home, your Plex/Jellyf
 - **Wake word.** A custom "Hey Alfred" wake word.
 - **Personas.** Formal, Witty or Concise. They change the wording, not what Alfred does.
 
-![Room mics](images/room-mics.png)
+![Room mics](room-mics.PNG)
 ## Integrations
 
 | Integration | What Alfred does with it |
