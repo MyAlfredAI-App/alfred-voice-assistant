@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="sphere.png" alt="Alfred" width="420">
+</p>
 # Alfred
 
 **A local-first voice assistant for Home Assistant. No LLM.**
