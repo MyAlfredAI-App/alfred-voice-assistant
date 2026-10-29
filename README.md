@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="sphere.png" alt="Alfred" width="420">
+  <img src="sphere.PNG" alt="Alfred" width="420">
 </p>
-# Alfred
 
+# Alfred
 **A local-first voice assistant for Home Assistant. No LLM.**
 
 Alfred understands natural speech and controls your smart home, your Plex/Jellyfin library and Spotify, with no custom sentences to write.
